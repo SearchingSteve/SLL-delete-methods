@@ -131,22 +131,8 @@ The implementation has been tested with various data types and edge cases:
 
 ## License
 
-This project is licensed for educational purposes only. Redistribution, modification, or commercial use requires prior written permission.
+This project is provided for personal use only. Redistribution, modification, or commercial use in any form is strictly prohibited without prior written permission from the author.
+For detailed license terms, refer to the [LICENSE](./LICENSE.md) file.
 
 ## Author
-
-- **Stephen Crocker**
-- GitHub: [SearchingSteve](https://github.com/SearchingSteve)
-
-## Version History
-
-- 1.0.0
-  - Initial release
-  - Basic deletion operations
-  - Generic implementation
-  - Error handling
-
-## Acknowledgments
-
-- Thanks to all contributors who have helped with testing and verification
-- Special thanks to the Java community for valuable feedback and suggestions
+[SearchingSteve](https://github.com/SearchingSteve)
